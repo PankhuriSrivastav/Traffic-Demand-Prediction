@@ -35,7 +35,7 @@ Traffic demand forecasting solution developed for **Flipkart Gridlock Hackathon 
 ## Project Structure
 
 ```text
-├── Traffic Demand Prediction(Hyper Drive).ipynb
+├── Traffic Demand Prediction.ipynb
 ├── dataset/
 ├── results/
 │   └── submission.csv
